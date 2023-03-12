@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Redux",
+      "status": true
+    },
+    {
+      "title": "learn java",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "learn Django",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Learn React",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Learn Django GAian",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Django",
+      "status": false,
+      "id": 6
+    }
+  ]
+}
